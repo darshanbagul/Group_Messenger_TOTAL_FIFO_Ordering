@@ -92,7 +92,7 @@ The guidelines and rules for implementing the group messenger are available [her
 
 ## Testing
 
-We have been provided a Grader script, that tests our implementation rigorously by spawning multiple threads or multiple Android emulators. The testing is handled across two phases:
+We have been provided a [Grader](https://github.com/darshanbagul/Group_Messenger_TOTAL_FIFO_Ordering/tree/master/Grader) script, that tests our implementation rigorously by spawning multiple threads or multiple Android emulators. The testing is handled across two phases:
   
   **1. Testing without any failure**
     In this phase, all the messages should be delivered in a TOTAL-FIFO order. For each message, all the delivery sequence numbers should be the same across processes.
