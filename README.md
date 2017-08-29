@@ -80,6 +80,7 @@ Let us understand how ISIS algorithm works for guaranteeing Total + FIFO Orderin
   
 Image shown below will help understand the process better:
 
+![Image](https://github.com/darshanbagul/Group_Messenger_TOTAL_FIFO_Ordering/blob/master/images/ISIS_Algorithm_Working.gif)
 
 **ISIS algorithm** developed at Cornell (Birman, 1993; Birman and Joseph, 1987a, 1987b; and Birman and Van Renesse, 1994) **provides Total ordered multicast delivery.** 
 
@@ -130,3 +131,8 @@ We have been provided a Grader script, that tests our implementation rigorously 
 
 This project comprises of scripts developed by Networked Systems Research Group at The State University of New York. I thank Prof. Steve Ko for teaching the course and encouraging practical implementations of important concepts in Large Scale Distributed Systems.
 
+## References
+
+   1. [Distributed Systems: Concepts and Design (5th Edition)](https://www.pearsonhighered.com/program/Coulouris-Distributed-Systems-Concepts-and-Design-5th-Edition/PGM85317.html) 
+
+   2. Coursera MOOC - [Cloud Computing Concepts - University of Illinois at Urbana-Champaign](https://www.coursera.org/learn/cloud-computing) by Dr. Indranil Gupta
